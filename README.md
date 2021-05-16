@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TheNisTh
 - 👀 I’m interested in full stack web development
 - 🌱 I’m currently learning HTML, CSS, JS and JAVA.
-- 💞️ I’m looking to collaborate on anything related to software development(intermediaty at the moment)
+- 💞️ I’m looking to collaborate on anything related to software development(intermediary at the moment)
 - 📫 How to reach me: denis_thielke@hotmail.com
 
 <!---
