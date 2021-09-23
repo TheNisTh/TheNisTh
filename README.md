@@ -1,7 +1,4 @@
-### 👋 Hi, I’m Dênis Thielke
 
-- 👀 I’m interested in full stack web development
-- 🌱 I’m currently learning Vue.js, Vuetify, Node.js and MongoDB.
 
 <div align="center">
   <a href="mailto:thielkedenis@gmail.com"><img
@@ -13,8 +10,7 @@
 
 </div>
 
-
-<div  align="center" style="display:flex">
+<div  align="center">
   <a href="https://github.com/TheNisTh">
     <img height="180em"
       src="https://github-readme-stats.vercel.app/api?username=TheNisTh&show_icons=true&theme=react&include_all_commits=true&count_private=true" />
