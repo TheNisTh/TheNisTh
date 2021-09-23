@@ -1,15 +1,15 @@
 <div  align="center">
    <img style="margin-right: 90px" alt="TheNisTh-nodejs" src="https://icongr.am/devicon/nodejs-original.svg?size=30&color=0a9de6">
-   <img style="padding-right: 90px" alt="TheNisTh-express" src="https://icongr.am/devicon/express-original.svg?size=30&color=e17547">
-  <img style="padding-right: 90px" width: "30px" height="30px" alt="TheNisTh-vue" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+   <img style="padding-right: 30px" alt="TheNisTh-express" src="https://icongr.am/devicon/express-original.svg?size=30&color=e17547">
+  <img style="padding-right: 30px" width: "30px" height="30px" alt="TheNisTh-vue" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
   
-   <img style="padding-right: 90px" alt="TheNisTh-html" src="https://icongr.am/devicon/html5-original.svg?size=30&color=e17547">
-   <img style="padding-right: 90px" alt="TheNisTh-css" src="https://icongr.am/devicon/css3-original.svg?size=30&color=e17547">
-   <img style="padding-right: 90px" alt="TheNisTh-javascript" src="https://icongr.am/devicon/javascript-original.svg?size=30&color=e17547">
+   <img style="padding-right: 30px" alt="TheNisTh-html" src="https://icongr.am/devicon/html5-original.svg?size=30&color=e17547">
+   <img style="padding-right: 30px" alt="TheNisTh-css" src="https://icongr.am/devicon/css3-original.svg?size=30&color=e17547">
+   <img style="padding-right: 30px" alt="TheNisTh-javascript" src="https://icongr.am/devicon/javascript-original.svg?size=30&color=e17547">
   
-  <img style="padding-right: 90px" alt="TheNisTh-vs" src="https://icongr.am/devicon/visualstudio-plain.svg?size=30&color=e17547">
+  <img style="padding-right: 30px" alt="TheNisTh-vs" src="https://icongr.am/devicon/visualstudio-plain.svg?size=30&color=e17547">
 
-  <img style="padding-right: 90px" alt="TheNisTh-mongodb" src="https://icongr.am/devicon/mongodb-original.svg?size=30&color=e17547">
+  <img style="padding-right: 30px" alt="TheNisTh-mongodb" src="https://icongr.am/devicon/mongodb-original.svg?size=30&color=e17547">
 </div>
 
 <br>
