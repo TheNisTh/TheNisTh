@@ -1,4 +1,4 @@
-<div  align="center" style="display: inline-block">
+<div  align="center">
    <img style="margin-right: 90px" alt="TheNisTh-nodejs" src="https://icongr.am/devicon/nodejs-original.svg?size=30&color=0a9de6">
    <img style="padding-right: 30px" alt="TheNisTh-express" src="https://icongr.am/devicon/express-original.svg?size=30&color=e17547">
   <img style="padding-right: 30px" width: "30px" height="30px" alt="TheNisTh-vue" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
@@ -14,12 +14,10 @@
 
 ##
 
-<div  align="center" style="display: inline-block">
+<div  align="center">
   <a href="https://github.com/TheNisTh">
-    <img height="180em"
-      src="https://github-readme-stats.vercel.app/api?username=TheNisTh&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-    <img height="180em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheNisTh&layout=compact&langs_count=7&theme=react"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TheNisTh&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheNisTh&layout=compact&langs_count=7&theme=react"/>
 </div>
   
   ##
