@@ -12,7 +12,7 @@
   <img style="padding-right: 30px" alt="TheNisTh-mongodb" src="https://icongr.am/devicon/mongodb-original.svg?size=30&color=e17547">
 </div>
 
-<br>
+##
 
 <div  align="center">
   <a href="https://github.com/TheNisTh">
@@ -22,7 +22,7 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheNisTh&layout=compact&langs_count=7&theme=react" />
 </div>
   
-  <br>
+  ##
 
 <div align="center">
   <a href="mailto:thielkedenis@gmail.com"><img
